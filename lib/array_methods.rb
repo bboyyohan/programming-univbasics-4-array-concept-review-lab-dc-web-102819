@@ -9,7 +9,8 @@ def find_element_index(array, value_to_find)
 
 
 def find_max_value(array)
-  array.max()
+  max = 0
+  array.length 
 end
 
 def find_min_value(array)
